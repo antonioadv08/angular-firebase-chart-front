@@ -1,0 +1,3 @@
+[submodule "angular-firebase-chart"]
+	path = angular-firebase-chart
+	url = https://github.com/antonioadv08/angular-firebase-chart.git
